@@ -6,10 +6,56 @@
   font-size: 1.5rem;
   font-weight: 500;
   text-align: left;
+  margin-top: 17px;
 }
 
 .App-subheader {
   font-size: 1rem;
   font-weight: 100;
   text-align: left;
+  margin-top: 11px;
+}
+
+.App-card {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.App-border {
+  border-left: 1px solid #767676;
+  margin-bottom: 18px;
+}
+
+.App-upper {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.App-cardbody {
+  padding: 0;
+  height: "auto";
+}
+
+.App-row {
+  margin-top: 20px;
+  margin-bottom: 18px;
+}
+
+.App-upperText {
+  color: "#767676";
+  font-size: 12px;
+  margin-left: 10px;
+  margin-right: 25px;
+}
+
+.App-belowText {
+  color: "#252525";
+  font-size: 12px;
+  margin-left: 10px;
+  margin-right: 25px;
+}
+
+.App-fulldetails {
+  text-align: "right";
+  margin-top: 45px;
 }
